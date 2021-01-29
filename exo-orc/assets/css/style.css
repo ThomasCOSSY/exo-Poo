@@ -1,0 +1,25 @@
+.background{
+    background-image: url(../img/fond.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100rem;
+	height: 70rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin: auto;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    padding: 0mm;
+}
+
+.button1{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    height: 3rem;
+}
